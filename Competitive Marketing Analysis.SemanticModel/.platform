@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Competitive Marketing Analysis"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "833817d6-453f-ad24-4904-7e8b9813cbed"
+  }
+}
